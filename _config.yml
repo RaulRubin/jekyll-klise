@@ -11,16 +11,15 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Raul Rubin # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+   Hola, soy Raúl, un apasionado estudiante de Grado Superior en Informática. Siempre he tenido un amor especial por la tecnología y me encanta aprender sobre el mundo digital. 
+   Además, soy un gran amante de los gatos, esos adorables compañeros que siempre logran sacarme una sonrisa. 
+   Me considero una persona amable y approachable, siempre dispuesto a ayudar a quienes me rodean. Si quieres charlar sobre programas, gatos o cualquier otro tema, ¡no dudes en contactarme!.
+  username: Raul Rubin # general username
+  github: RaulRubin # github username
+  email: rrubinl01@educantabria.es # email adress
+  avatar: /assets/img/Rambley-Racoon.png # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
